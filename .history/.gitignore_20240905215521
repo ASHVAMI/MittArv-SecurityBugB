@@ -1,0 +1,39 @@
+# Logs
+logs/
+*.log
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Testing reports and screenshots
+/reports/*.png
+/reports/*.jpg
+
+# Configuration files
+config/environment.js
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+*.swp
+*.lock
+*.tmp
+
+# Build artifacts (if any)
+dist/
+build/
